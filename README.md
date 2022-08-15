@@ -1,4 +1,4 @@
 # Bass-Guitar-Konnect
 
 
-The project I use to practice my first HTML "The Propose website for Guitarist around the world".
+This was my first project using HTML, building a Guitar website, which involve pictures of popular guitarist in the world.  
